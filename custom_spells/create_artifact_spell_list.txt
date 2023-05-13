@@ -1,0 +1,18 @@
+*create artifact spells can be cast by wizards and sorcerers at their respective levels and requirements; Artificiers can cast these spells as cantrips, but it still needs to be a ritual with requirements.
+
+*create artifact spells are considered to be transmutation
+
+*all artifacts created from the following spells can be dispelled using 'Dispel Magic'; the rules for dispel magic are appiled; so any artifacts level 3 or lower are automatically destroyed, while higher level artifacts have a DC
+
+*artifacts created from these spells can be detected with Detect Magic
+
+---Level 1---
+
+--Create Torch Rock--
+Components: V, S, M(2 rocks and a Tinderbox)
+
+Creates a Torchlighter made of stone that is magically ignited when the user presses the sigil underneathe the light shaft. A Torchlighter is defined as:
+
+-Torchlighter - 1gp - NA
+Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+---------------------
